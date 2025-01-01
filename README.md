@@ -1,3 +1,4 @@
+说明：初赛提交仓库是AtomGit(https://atomgit.com/openrank2024/017/tree/master/%E5%88%9D%E8%B5%9B)，由于上传代码不方便，故复赛提交代码转为Github。
 # DM_screen_web
 
 ### 介绍
